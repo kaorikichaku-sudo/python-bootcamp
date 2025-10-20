@@ -1,5 +1,3 @@
-import os
-
 print("Hello World")
 
-os.system("pause")
+input("Press Enter to finish...")
